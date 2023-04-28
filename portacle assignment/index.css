@@ -1,0 +1,20 @@
+.image.png {
+    max-width: 100%;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+}
+
+demo {
+    color: green;
+}
+
+.myclass {
+    color: blue;
+}
+
+a {
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid black;
+}
